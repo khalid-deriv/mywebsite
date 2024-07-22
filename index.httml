@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>My website</title>
+</head>
+<body>
+    <img id="image" src="https://i.imgur.com/bXo2lIo.jpeg"/>
+    <div id="content">
+        <h1>My name is Ahmed</h1>
+        <p>Welcome to my personal website</p>
+
+        <div id="social-media">
+            <a href="https://www.facebook.com>/mohamed.ahmed.1426876/"><img class="social-media-icon" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png"/></a>
+            <a href="https://www.instagram.com/mohamed_ahmed_1999/"><img class="social-media-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png"/></a>
+            <a href="https://www.linkedin.com/in/mohamed-ahmed-0b0b3a1a0/"><img class="social-media-icon" src="https://toppng.com/uploads/preview/linkedin-logo-png-free-11660255212jmwsbnextx.png"/></a>
+        </div>
+    </div>
+</body>
+</html>
